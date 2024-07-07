@@ -18,7 +18,7 @@ h2{
     color: white;
 }
 h2:hover{
-    color: yellow;
+    color: rgb(197, 240, 7);
 }
 .container{
     width: 100%;
